@@ -1,0 +1,22 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "Could coputing",
+  "main": "test1.js",
+  "scripts": {
+      "start": "node test1.js" 
+     },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binhzonzon25/nodeJs-exam.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Binh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binhzonzon25/nodeJs-exam/issues"
+  },
+  "homepage": "https://github.com/binhzonzon25/nodeJs-exam#readme"
+}
